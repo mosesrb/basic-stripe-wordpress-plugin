@@ -25,4 +25,4 @@ Modify this file in 'model/PaymentGatwayeModel.php' line number 138. Uncomment t
 
 Also make sure Curl is installed in system if on local machine..otherwise payment request won't  sent.
 
-You you have any Question regarding this please mail me at mosesrb@hotmail.com
+You you have any Question regarding please let me know
